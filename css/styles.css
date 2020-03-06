@@ -1,0 +1,188 @@
+ body{
+    text-align: center;
+    margin: 0;
+
+}
+
+.top{
+  background-color: #424874;
+  margin-top: 0;
+  width:100%;
+  height:850px;
+
+}
+
+h1{
+  margin: 0;
+  padding-top: 120px;
+  font-family: 'Sacramento', cursive;
+  font-size: 517%;
+}
+
+h2{
+  font-family: 'Courgette', cursive;
+  margin:0 auto;
+  font-size: 317%
+}
+.mainhead{
+  padding-top: 40px;
+}
+.exphead{
+  padding-top: 40px;
+}
+h3{
+  font-family: 'Courgette', cursive;
+}
+
+.mainimg{
+  width: 450px;
+  height: 450px;
+  position: relative;
+  top:50px;
+  left: 80px;
+
+}
+
+#undertitle{
+  font-size: 200%;
+}
+
+.skillhead{
+  padding-top: 0;
+
+}
+.sideimg{
+  width: 250px;
+  height: 250px;
+  position:absolute;
+  left:30px;
+  bottom: 10px;
+
+}
+.rightimg{
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 300px;
+  top: -450px;
+}
+
+.profile{
+  background-color: #a6b1e1;
+  width: 100%;
+  height: 300px;
+}
+
+.contact-me{
+  background-color: #424874;
+  position: absolute;
+  bottom: -1300px;
+  width: 100%;
+  height: 200px;
+
+}
+.bottom-container{
+  background-color: #424874;
+  position: absolute;
+  bottom: -1400px;
+  width: 100%;
+  height: 100px;
+}
+
+.tab{
+  background-color: #a6b1e1;
+  width: 100%;
+  height: 800px;
+}
+
+.skill-row12{
+  background-color: #a6b1e1;
+  width: 100%;
+  height: 300px;
+}
+
+.pic{
+
+  margin: auto;
+  height: 200px;
+  width:200px;
+  position:absolute;
+  left: 90px;
+  bottom: -350px;
+}
+hr{
+  margin: 0 auto 0;
+
+}
+
+.para{
+  width: 50%;
+  margin: 40px auto 60px;
+}
+p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 117%;
+}
+
+.secondpara{
+  width: 70%;
+  margin: 40px auto 60px;
+}
+.thirdpara{
+  width: 70%;
+  margin: 40px auto 60px;
+}
+
+.skills{
+  margin: auto;
+  position: absolute;
+  left :1100px;
+  bottom: -610px
+}
+
+.code{
+  height: 150px;
+  width: 150px;
+  margin: auto;
+  position: absolute;
+  left :90px;
+  bottom: -930px
+
+}
+
+.btn {
+	box-shadow:inset 0 1px 0 0 #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Poppins', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:7px 35px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #528ecc;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #a6b1e1;
+   font-family: 'Poppins', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
